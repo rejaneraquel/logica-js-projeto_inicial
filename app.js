@@ -1,1 +1,1 @@
-alert('Olá mundo');
+alert('Seja bem vindo(a) ao jogo do número secreto');
